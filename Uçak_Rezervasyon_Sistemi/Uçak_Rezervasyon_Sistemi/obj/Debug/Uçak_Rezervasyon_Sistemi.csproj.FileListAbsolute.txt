@@ -1,0 +1,11 @@
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\bin\Debug\Uçak_Rezervasyon_Sistemi.exe.config
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\bin\Debug\Uçak_Rezervasyon_Sistemi.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\bin\Debug\Uçak_Rezervasyon_Sistemi.pdb
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.csproj.AssemblyReference.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.Form1.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Uçak_Rezervasyon_Sistemi\Uçak_Rezervasyon_Sistemi\obj\Debug\Uçak_Rezervasyon_Sistemi.pdb
